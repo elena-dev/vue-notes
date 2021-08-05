@@ -1,4 +1,4 @@
-# untitled3
+# vue-notes
 
 ## Project setup
 ```
